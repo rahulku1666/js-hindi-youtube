@@ -1,4 +1,4 @@
-// // primitive
+// primitive
 
 // // 7 types : string, number, boolearn, null, undefined, symbol, BigInt
 
